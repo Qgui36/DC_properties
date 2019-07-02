@@ -1,5 +1,5 @@
 # Final Project - DC Properties<br>
-## Presented by: Hank, Lauren, Diego, Steve, Qin, Anna<br>
+## Presented by: Hank, Lauren, Diego, Stephen, Qin, Anna<br>
 ### Wednesday, June 3rd, 2019 
 
 <img  src="https://www.tripsavvy.com/thmb/OrqFLS2jHbFlmOsOBLbvmUsx_IU=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/architecture-lenfant-DC-564109589-crop-5b454aec46e0fb005bd49251.jpg"  alt="Final Project - DC Properties"  />
@@ -64,3 +64,7 @@ The feature variables for each house observation include quantitative and qualit
 ### Visualizations
 
 Generated dashboard [Tableau](https://public.tableau.com/profile/anna5120#!/vizhome/Residence/Dashboard1?publish=yes "DC Properties") to allow an interactive viz for the user to select a residence based on their search criteria 
+
+Generated dashboard [Tableau](https://public.tableau.com/profile/henry.kuhlman#!/vizhome/DC_Prop_Hank/Story1?publish=yes "Predicting Prices") to predict prices in an area
+
+Generated dashboard [Tableau](https://public.tableau.com/profile/qin.gui#!/vizhome/DC_property_QG/Story1?publish=yes)
